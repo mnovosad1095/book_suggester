@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form action="recom.html" method="post">
+    <div class="container">
+        <div class="user">
+            <label for="uname">Username</label>
+            <input type="text" name="username" id="uname">
+            <br>
+            <label for="passw">Password</label>
+            <input type="text" name="password" id="passw" >
+            <input type="submit" value="Submit">
+        </div>
+    </div>
+</form>
+
+{% endblock %}
