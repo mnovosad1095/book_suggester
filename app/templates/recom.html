@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<link rel="stylesheet" type="text/css"
+href="{{ url_for('static', filename='css/recom.css') }}">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Suggester</title>
+</head>
+<body>
+    <form action="{{ url_for('book_page') }}" method="post">
+        <fieldset >
+            <legend align="center">Pages</legend>
+            <div align="center">
+                <input type="number" name="Minimum_pages" placeholder="Min pages">
+                <br>
+                <input type="number" name="Max_pages" placeholder="Max pages">
+                <br>
+                <input type="submit" value="Recommend me some books">
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>

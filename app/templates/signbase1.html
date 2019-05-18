@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form action="{{ url_for('login') }}" method="post">
+    <fieldset>
+        <legend align="center">Log In</legend>
+        <div class="user" align="center">
+            <input type="text" name="username" id="uname" placeholder="Username">
+            <br>
+            <input type="password" name="password" id="passw" placeholder="Password">
+            <br>
+            <input type="submit" value="Let's go!">
+        </div>
+    </fieldset>
+</form>
+
+    <div class="text">
+        <fieldset>
+            <legend align="center">Book Recomender</legend>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Duis at consectetur
+                lorem donec massa sapien. Donec massa sapien faucibus et molestie ac. Sodales neque sodales ut etiam sit
+                amet nisl purus in. Vestibulum morbi blandit cursus risus at ultrices mi. Mattis aliquam faucibus purus
+                in. Facilisis gravida neque convallis a cras semper auctor. Diam vulputate ut pharetra sit. Est ante in
+                nibh mauris cursus. Eu sem integer vitae justo eget. Id volutpat lacus laoreet non. Felis eget velit
+                aliquet sagittis id consectetur purus. Turpis egestas sed tempus urna. Libero enim sed faucibus turpis
+                in. Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Integer eget aliquet nibh
+                praesent. Fermentum leo vel orci porta non pulvinar neque.
+            </p>
+        </fieldset>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    {% for book in  context.books %}
+       <fieldset name="book" >
+          <legend>{{  book.name  }}</legend>
+                <table>
+                    <tr>
+                        <td><img src="{{ book.img_url }}" ></td>
+                        <td>{{ book.descr }} </td>
+                    </tr>
+                </table>
+       </fieldset>
+
+    {% endfor %}
+
+{% endblock %}

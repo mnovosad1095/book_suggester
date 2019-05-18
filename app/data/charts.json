@@ -1,0 +1,291 @@
+{
+    "latest_date": "datetime.datetime(2019, 5, 19, 0, 0)",
+    "oldest_date": "datetime.datetime(2019, 1, 13, 0, 0)",
+    "charts": [
+        {
+            "date": "2019-05-19",
+            "next_date": "2019-05-12",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780316420266\", rank=2, author=\"James Patterson and Maxine Paetro\", name=\"THE 18TH ABDUCTION\", pages=207, img_url=\"https://s1.nyt.com/du/books/images/9780316528443.jpg\", descr=\"The 18th book in the Women's Murder Club series. Lindsay Boxer investigates the disappearance of three female teachers.\")",
+                "BookRanker(isbn=\"9781538761410\", rank=3, author=\"David Baldacci\", name=\"REDEMPTION\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781538761434.jpg\", descr=\"The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.\")",
+                "BookRanker(isbn=\"9780525536581\", rank=4, author=\"John Sandford\", name=\"NEON PREY\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780525536598.jpg\", descr=\"The 29th book in the Prey series. Lucas Davenport goes after a serial killer.\")",
+                "BookRanker(isbn=\"9781524796372\", rank=5, author=\"Martha Hall Kelly\", name=\"LOST ROSES\", pages=448, img_url=\"https://s1.nyt.com/du/books/images/9781524796372.jpg\", descr=\"In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.\")",
+                "BookRanker(isbn=\"9781984822178\", rank=6, author=\"Sally Rooney\", name=\"NORMAL PEOPLE\", pages=272, img_url=\"https://s1.nyt.com/du/books/images/9781984822178.jpg\", descr=\"The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=7, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780062699763\", rank=8, author=\"Etaf Rum\", name=\"A WOMAN IS NO MAN\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9780062699763.jpg\", descr=\"A Palestinian-American teenager, much like her mother before her, faces the prospect of an arranged marriage.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=9, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")"
+            ]
+        },
+        {
+            "date": "2019-05-12",
+            "next_date": "2019-05-05",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780525536581\", rank=2, author=\"John Sandford\", name=\"NEON PREY\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780525536598.jpg\", descr=\"The 29th book in the Prey series. Lucas Davenport goes after a serial killer.\")",
+                "BookRanker(isbn=\"9781538761410\", rank=3, author=\"David Baldacci\", name=\"REDEMPTION\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781538761434.jpg\", descr=\"The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.\")",
+                "BookRanker(isbn=\"9781524796372\", rank=4, author=\"Martha Hall Kelly\", name=\"LOST ROSES\", pages=448, img_url=\"https://s1.nyt.com/du/books/images/9781524796372.jpg\", descr=\"In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.\")",
+                "BookRanker(isbn=\"9781984817457\", rank=5, author=\"Greg Weisman\", name=\"WAR OF THE SPARK: RAVNICA\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781984817457.jpg\", descr=\"The first book in the Magic: The Gathering: War of the Spark series. Nicol Bolas, the Elder Dragon, attacks the city of Ravnica.\")",
+                "BookRanker(isbn=\"9781984822178\", rank=6, author=\"Sally Rooney\", name=\"NORMAL PEOPLE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781984822178.jpg\", descr=\"The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.\")",
+                "BookRanker(isbn=\"9780525539643\", rank=7, author=\"Lisa Scottoline\", name=\"SOMEONE KNOWS\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780525539643.jpg\", descr=\"A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=8, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=9, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")"
+            ]
+        },
+        {
+            "date": "2019-05-05",
+            "next_date": "2019-04-28",
+            "books": [
+                "BookRanker(isbn=\"9781538761410\", rank=1, author=\"David Baldacci\", name=\"REDEMPTION\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781538761434.jpg\", descr=\"The fifth book in the Memory Man series. The first man Amos Decker put behind bars asks to have his name cleared.\")",
+                "BookRanker(isbn=\"9780735219090\", rank=2, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9781984822178\", rank=3, author=\"Sally Rooney\", name=\"NORMAL PEOPLE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781984822178.jpg\", descr=\"The connection between a high school star athlete and a loner ebbs and flows when they go to Trinity College in Dublin.\")",
+                "BookRanker(isbn=\"9781524796372\", rank=4, author=\"Martha Hall Kelly\", name=\"LOST ROSES\", pages=448, img_url=\"https://s1.nyt.com/du/books/images/9781524796372.jpg\", descr=\"In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.\")",
+                "BookRanker(isbn=\"9780525619376\", rank=5, author=\"Claudia Gray\", name=\"STAR WARS: MASTER & APPRENTICE\", pages=352, img_url=\"https://s1.nyt.com/du/books/images/9780525619376.jpg\", descr=\"The bond between Qui-Gon Jinn and Obi-Wan Kenobi is tested when they go on a mission to the royal court of Pijal.\")",
+                "BookRanker(isbn=\"9780525539643\", rank=6, author=\"Lisa Scottoline\", name=\"SOMEONE KNOWS\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780525539643.jpg\", descr=\"A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.\")",
+                "BookRanker(isbn=\"9781538748466\", rank=7, author=\"Harlan Coben\", name=\"RUN AWAY\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781538748466.jpg\", descr=\"A family is torn apart when the daughter becomes addicted to drugs and goes missing.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=8, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780735218994\", rank=9, author=\"Clive Cussler and Dirk Cussler\", name=\"CELTIC EMPIRE\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9780735219007.jpg\", descr=\"The 25th book in the Dirk Pitt series.\")"
+            ]
+        },
+        {
+            "date": "2019-04-28",
+            "next_date": "2019-04-21",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780525539643\", rank=2, author=\"Lisa Scottoline\", name=\"SOMEONE KNOWS\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780525539643.jpg\", descr=\"A dark secret emerges when Allie Garvey returns home to attend a childhood friend\u2019s funeral.\")",
+                "BookRanker(isbn=\"9781524796372\", rank=3, author=\"Martha Hall Kelly\", name=\"LOST ROSES\", pages=448, img_url=\"https://s1.nyt.com/du/books/images/9781524796372.jpg\", descr=\"In 1914, the New York socialite Eliza Ferriday works to help White Russian families escape from the revolution.\")",
+                "BookRanker(isbn=\"9780316485555\", rank=4, author=\"James Patterson and Brendan DuBois\", name=\"THE CORNWALLS ARE GONE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316485555.jpg\", descr=\"An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.\")",
+                "BookRanker(isbn=\"9781476707433\", rank=5, author=\"Karen Kingsbury\", name=\"TWO WEEKS\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781476707433.jpg\", descr=\"A pregnant 18-year-old has limited time to change her mind about giving her baby up for adoption.\")",
+                "BookRanker(isbn=\"9781538748466\", rank=6, author=\"Harlan Coben\", name=\"RUN AWAY\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781538748466.jpg\", descr=\"A family is torn apart when the daughter becomes addicted to drugs and goes missing.\")",
+                "BookRanker(isbn=\"9780062391957\", rank=7, author=\"Anne Hillerman\", name=\"THE TALE TELLER\", pages=304, img_url=\"https://s1.nyt.com/du/books/images/9780062391971.jpg\", descr=\"Investigations by Leaphorn, Chee and Manuelito overlap in the desert Southwest.\")",
+                "BookRanker(isbn=\"9780735218994\", rank=8, author=\"Clive Cussler and Dirk Cussler\", name=\"CELTIC EMPIRE\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9780735219007.jpg\", descr=\"The 25th book in the Dirk Pitt series.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=9, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")"
+            ]
+        },
+        {
+            "date": "2019-04-21",
+            "next_date": "2019-04-14",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780316485555\", rank=2, author=\"James Patterson and Brendan DuBois\", name=\"THE CORNWALLS ARE GONE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316485555.jpg\", descr=\"An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.\")",
+                "BookRanker(isbn=\"9781501194948\", rank=3, author=\"JR Ward\", name=\"THE SAVIOR\", pages=496, img_url=\"https://s1.nyt.com/du/books/images/9781501194962.jpg\", descr=\"The 17th book in the Black Dagger Brotherhood series. Secrets about inhumane experiments surface at a biomedical firm.\")",
+                "BookRanker(isbn=\"9781538748466\", rank=4, author=\"Harlan Coben\", name=\"RUN AWAY\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781538748466.jpg\", descr=\"A family is torn apart when the daughter becomes addicted to drugs and goes missing.\")",
+                "BookRanker(isbn=\"9780735218994\", rank=5, author=\"Clive Cussler and Dirk Cussler\", name=\"CELTIC EMPIRE\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9780735219007.jpg\", descr=\"The 25th book in the Dirk Pitt series.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=6, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9781524798628\", rank=7, author=\"Taylor Jenkins Reid\", name=\"DAISY JONES & THE SIX\", pages=368, img_url=\"https://s1.nyt.com/du/books/images/9781524798628.jpg\", descr=\"A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.\")",
+                "BookRanker(isbn=\"9780062824615\", rank=8, author=\"Greg Iles\", name=\"CEMETERY ROAD\", pages=752, img_url=\"https://s1.nyt.com/du/books/images/9780062824639.jpg\", descr=\"The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.\")",
+                "BookRanker(isbn=\"9780525538196\", rank=9, author=\"CJ Box\", name=\"WOLF PACK\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780525538202.jpg\", descr=\"The Wyoming game wardens Joe Pickett and Katelyn Hamm take on killers working for the Sinaloa cartel.\")"
+            ]
+        },
+        {
+            "date": "2019-04-14",
+            "next_date": "2019-04-07",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780316485555\", rank=2, author=\"James Patterson and Brendan DuBois\", name=\"THE CORNWALLS ARE GONE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316485555.jpg\", descr=\"An Army intelligence officer must commit a crime or lose her kidnapped husband and daughter.\")",
+                "BookRanker(isbn=\"9781538748466\", rank=3, author=\"Harlan Coben\", name=\"RUN AWAY\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781538748466.jpg\", descr=\"A family is torn apart when the daughter becomes addicted to drugs and goes missing.\")",
+                "BookRanker(isbn=\"9780735218994\", rank=4, author=\"Clive Cussler and Dirk Cussler\", name=\"CELTIC EMPIRE\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9780735219007.jpg\", descr=\"The 25th book in the Dirk Pitt series.\")",
+                "BookRanker(isbn=\"9780062436665\", rank=5, author=\"Jacqueline Winspear\", name=\"THE AMERICAN AGENT\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780062436696.jpg\", descr=\"The 15th book in the Maisie Dobbs series. While the Germans attack the British Isles, Maisie must solve a case and protect a young evacuee.\")",
+                "BookRanker(isbn=\"9780316332873\", rank=6, author=\"James SA Corey\", name=\"TIAMAT'S WRATH\", pages=608, img_url=\"https://s1.nyt.com/du/books/images/9780316332873.jpg\", descr=\"The eighth book in the Expanse series.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=7, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780735219281\", rank=8, author=\"Stuart Woods\", name=\"WILD CARD\", pages=320, img_url=\"https://s1.nyt.com/du/books/images/9780735219304.jpg\", descr=\"The 49th book in the Stone Barrington series.\")",
+                "BookRanker(isbn=\"9780062824615\", rank=9, author=\"Greg Iles\", name=\"CEMETERY ROAD\", pages=752, img_url=\"https://s1.nyt.com/du/books/images/9780062824639.jpg\", descr=\"The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.\")"
+            ]
+        },
+        {
+            "date": "2019-04-07",
+            "next_date": "2019-03-31",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9781538748466\", rank=2, author=\"Harlan Coben\", name=\"RUN AWAY\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781538748466.jpg\", descr=\"A family is torn apart when the daughter becomes addicted to drugs and goes missing.\")",
+                "BookRanker(isbn=\"9780735218994\", rank=3, author=\"Clive Cussler and Dirk Cussler\", name=\"CELTIC EMPIRE\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9780735219007.jpg\", descr=\"The 25th book in the Dirk Pitt series.\")",
+                "BookRanker(isbn=\"9780525538196\", rank=4, author=\"CJ Box\", name=\"WOLF PACK\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780525538202.jpg\", descr=\"The Wyoming game wardens Joe Pickett and Katelyn Hamm take on killers working for the Sinaloa cartel.\")",
+                "BookRanker(isbn=\"9780062824615\", rank=5, author=\"Greg Iles\", name=\"CEMETERY ROAD\", pages=752, img_url=\"https://s1.nyt.com/du/books/images/9780062824639.jpg\", descr=\"The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.\")",
+                "BookRanker(isbn=\"9781524798628\", rank=6, author=\"Taylor Jenkins Reid\", name=\"DAISY JONES & THE SIX\", pages=368, img_url=\"https://s1.nyt.com/du/books/images/9781524798628.jpg\", descr=\"A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=7, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9781501154850\", rank=8, author=\"Lisa See\", name=\"THE ISLAND OF SEA WOMEN\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781501154850.jpg\", descr=\"The friendship over many decades of two female divers from the Korean Island of Jeju is pushed to a breaking point.\")",
+                "BookRanker(isbn=\"9780399179389\", rank=9, author=\"Danielle Steel\", name=\"SILENT NIGHT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179396.jpg\", descr=\"After tragedy strikes, a child TV star loses her memory and ability to speak.\")"
+            ]
+        },
+        {
+            "date": "2019-03-31",
+            "next_date": "2019-03-24",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780525538196\", rank=2, author=\"CJ Box\", name=\"WOLF PACK\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780525538202.jpg\", descr=\"The Wyoming game wardens Joe Pickett and Katelyn Hamm take on killers working for the Sinaloa cartel.\")",
+                "BookRanker(isbn=\"9780062824615\", rank=3, author=\"Greg Iles\", name=\"CEMETERY ROAD\", pages=752, img_url=\"https://s1.nyt.com/du/books/images/9780062824639.jpg\", descr=\"The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.\")",
+                "BookRanker(isbn=\"9781524798628\", rank=4, author=\"Taylor Jenkins Reid\", name=\"DAISY JONES & THE SIX\", pages=368, img_url=\"https://s1.nyt.com/du/books/images/9781524798628.jpg\", descr=\"A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=5, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780399179389\", rank=6, author=\"Danielle Steel\", name=\"SILENT NIGHT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179396.jpg\", descr=\"After tragedy strikes, a child TV star loses her memory and ability to speak.\")",
+                "BookRanker(isbn=\"9780316453301\", rank=7, author=\"James Patterson with Max DiLallo\", name=\"THE CHEF\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316530002.jpg\", descr=\"Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.\")",
+                "BookRanker(isbn=\"9780062358202\", rank=8, author=\"Tara Conklin\", name=\"THE LAST ROMANTICS\", pages=368, img_url=\"https://s1.nyt.com/du/books/images/9780062358202.jpg\", descr=\"A family crisis tests the bonds and ideals of a renowned poet and her siblings.\")",
+                "BookRanker(isbn=\"9781501154850\", rank=9, author=\"Lisa See\", name=\"THE ISLAND OF SEA WOMEN\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781501154850.jpg\", descr=\"The friendship over many decades of two female divers from the Korean Island of Jeju is pushed to a breaking point.\")"
+            ]
+        },
+        {
+            "date": "2019-03-24",
+            "next_date": "2019-03-17",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780062824615\", rank=2, author=\"Greg Iles\", name=\"CEMETERY ROAD\", pages=752, img_url=\"https://s1.nyt.com/du/books/images/9780062824639.jpg\", descr=\"The journalist Marshall McEwan returns to his hometown, which is shaken by two deaths and an economy on the brink.\")",
+                "BookRanker(isbn=\"9781524798628\", rank=3, author=\"Taylor Jenkins Reid\", name=\"DAISY JONES & THE SIX\", pages=368, img_url=\"https://s1.nyt.com/du/books/images/9781524798628.jpg\", descr=\"A fictional oral history charting the rise and fall of a \u201970s rock \u2019n\u2019 roll band.\")",
+                "BookRanker(isbn=\"9780399179389\", rank=4, author=\"Danielle Steel\", name=\"SILENT NIGHT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179396.jpg\", descr=\"After tragedy strikes, a child TV star loses her memory and ability to speak.\")",
+                "BookRanker(isbn=\"9780316453301\", rank=5, author=\"James Patterson with Max DiLallo\", name=\"THE CHEF\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316530002.jpg\", descr=\"Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.\")",
+                "BookRanker(isbn=\"9780062358202\", rank=6, author=\"Tara Conklin\", name=\"THE LAST ROMANTICS\", pages=368, img_url=\"https://s1.nyt.com/du/books/images/9780062358202.jpg\", descr=\"A family crisis tests the bonds and ideals of a renowned poet and her siblings.\")",
+                "BookRanker(isbn=\"9781250140265\", rank=7, author=\"Steve Berry\", name=\"THE MALTA EXCHANGE\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9781250140272.jpg\", descr=\"The 14th book in the Cotton Malone series. The former Justice Department operative tangles with a rogue cardinal and an ancient sect of knights.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=8, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9781501154850\", rank=9, author=\"Lisa See\", name=\"THE ISLAND OF SEA WOMEN\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781501154850.jpg\", descr=\"The friendship over many decades of two female divers from the Korean Island of Jeju is pushed to a breaking point.\")"
+            ]
+        },
+        {
+            "date": "2019-03-17",
+            "next_date": "2019-03-10",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780316453301\", rank=2, author=\"James Patterson with Max DiLallo\", name=\"THE CHEF\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316530002.jpg\", descr=\"Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.\")",
+                "BookRanker(isbn=\"9780062664488\", rank=3, author=\"Don Winslow\", name=\"THE BORDER\", pages=768, img_url=\"https://s1.nyt.com/du/books/images/9780062664488.jpg\", descr=\"The third book in the Power of the Dog series. Art Keller\u2019s fight to keep drugs out of the country has taken a complicated turn.\")",
+                "BookRanker(isbn=\"9781250133731\", rank=4, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=352, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=5, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9781496718860\", rank=6, author=\"Joanne Fluke\", name=\"CHOCOLATE CREAM PIE MURDER\", pages=304, img_url=\"https://s1.nyt.com/du/books/images/9781496718884.jpg\", descr=\"Hannah Swensen teams up with a former lover to find out who left a dead body in her bedroom.\")",
+                "BookRanker(isbn=\"9781250069825\", rank=7, author=\"Liane Moriarty\", name=\"NINE PERFECT STRANGERS\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9781250069849.jpg\", descr=\"A romance writer becomes fascinated by the owner and director of a health resort.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=8, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9781524742089\", rank=9, author=\"Lisa Gardner\", name=\"NEVER TELL\", pages=416, img_url=\"https://s1.nyt.com/du/books/images/9781524742096.jpg\", descr=\"D.D. Warren and Flora Dane investigate whether a pregnant woman shot and killed her husband.\")"
+            ]
+        },
+        {
+            "date": "2019-03-10",
+            "next_date": "2019-03-03",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780316453301\", rank=2, author=\"James Patterson with Max DiLallo\", name=\"THE CHEF\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316530002.jpg\", descr=\"Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.\")",
+                "BookRanker(isbn=\"9781524742089\", rank=3, author=\"Lisa Gardner\", name=\"NEVER TELL\", pages=416, img_url=\"https://s1.nyt.com/du/books/images/9781524742096.jpg\", descr=\"D.D. Warren and Flora Dane investigate whether a pregnant woman shot and killed her husband.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=4, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780735220171\", rank=5, author=\"Marlon James\", name=\"BLACK LEOPARD, RED WOLF\", pages=640, img_url=\"https://s1.nyt.com/du/books/images/9780735220171.jpg\", descr=\"A loner named Tracker teams up with a group of unusual characters in search of a mysterious boy.\")",
+                "BookRanker(isbn=\"9781250314208\", rank=6, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9780451488947\", rank=7, author=\"Mark Greaney\", name=\"MISSION CRITICAL\", pages=528, img_url=\"https://s1.nyt.com/du/books/images/9780451488961.jpg\", descr=\"The eighth book in the Gray Man series. Court Gentry must track down assassins.\")",
+                "BookRanker(isbn=\"9781250201577\", rank=8, author=\"JD Robb\", name=\"CONNECTIONS IN DEATH\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781250201584.jpg\", descr=\"Eve Dallas scours tattoo parlors and strip joints for clues to the cause of Lyle Pickering\u2019s mysterious death.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=9, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")"
+            ]
+        },
+        {
+            "date": "2019-03-03",
+            "next_date": "2019-02-24",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780735220171\", rank=2, author=\"Marlon James\", name=\"BLACK LEOPARD, RED WOLF\", pages=640, img_url=\"https://s1.nyt.com/du/books/images/9780735220171.jpg\", descr=\"A loner named Tracker teams up with a group of unusual characters in search of a mysterious boy.\")",
+                "BookRanker(isbn=\"9781250201577\", rank=3, author=\"JD Robb\", name=\"CONNECTIONS IN DEATH\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781250201584.jpg\", descr=\"Eve Dallas scours tattoo parlors and strip joints for clues to the cause of Lyle Pickering\u2019s mysterious death.\")",
+                "BookRanker(isbn=\"9781250314208\", rank=4, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9781250301697\", rank=5, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=6, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9780399563249\", rank=7, author=\"Mary Oliver\", name=\"DEVOTIONS\", pages=480, img_url=\"https://s1.nyt.com/du/books/images/9780399563249.jpg\", descr=\"A collection of more than 200 poems spanning 50 years of the author\u2019s career.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=8, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9780525540007\", rank=9, author=\"John Kenney\", name=\"LOVE POEMS FOR MARRIED PEOPLE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780525540007.jpg\", descr=\"Humorous musings on the ways long-term partners tolerate each other.\")"
+            ]
+        },
+        {
+            "date": "2019-02-24",
+            "next_date": "2019-02-17",
+            "books": [
+                "BookRanker(isbn=\"9781250301697\", rank=1, author=\"Alex Michaelides\", name=\"THE SILENT PATIENT\", pages=336, img_url=\"https://s1.nyt.com/du/books/images/9781250301697.jpg\", descr=\"Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.\")",
+                "BookRanker(isbn=\"9780735219090\", rank=2, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9781250201577\", rank=3, author=\"JD Robb\", name=\"CONNECTIONS IN DEATH\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9781250201584.jpg\", descr=\"Eve Dallas scours tattoo parlors and strip joints for clues to the cause of Lyle Pickering\u2019s mysterious death.\")",
+                "BookRanker(isbn=\"9780735220171\", rank=4, author=\"Marlon James\", name=\"BLACK LEOPARD, RED WOLF\", pages=640, img_url=\"https://s1.nyt.com/du/books/images/9780735220171.jpg\", descr=\"A loner named Tracker teams up with a group of unusual characters in search of a mysterious boy.\")",
+                "BookRanker(isbn=\"9780399563249\", rank=5, author=\"Mary Oliver\", name=\"DEVOTIONS\", pages=480, img_url=\"https://s1.nyt.com/du/books/images/9780399563249.jpg\", descr=\"A collection of more than 200 poems spanning 50 years of the author\u2019s career.\")",
+                "BookRanker(isbn=\"9781250314208\", rank=6, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9780525618492\", rank=7, author=\"Jonathan Kellerman\", name=\"THE WEDDING GUEST\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780525618508.jpg\", descr=\"Milo Sturgis and Alex Delaware investigate the death of a stranger at a wedding reception.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=8, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=9, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")"
+            ]
+        },
+        {
+            "date": "2019-02-17",
+            "next_date": "2019-02-10",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9781250314208\", rank=2, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=3, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9780316418249\", rank=4, author=\"James Patterson and Candice Fox\", name=\"LIAR LIAR\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780316418256.jpg\", descr=\"Detective Harriet Blue has become a dangerous fugitive from the law as she pursues the murderer Regan Banks.\")",
+                "BookRanker(isbn=\"9780062381781\", rank=5, author=\"James Rollins\", name=\"CRUCIBLE\", pages=448, img_url=\"https://s1.nyt.com/du/books/images/9780062381781.jpg\", descr=\"Monk Kokkalis and Commander Gray Pierce use arcane clues in hopes of preventing a potential apocalypse.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=6, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9780316556347\", rank=7, author=\"Madeline Miller\", name=\"CIRCE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316556347.jpg\", descr=\"Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.\")",
+                "BookRanker(isbn=\"9780399179358\", rank=8, author=\"Danielle Steel\", name=\"TURNING POINT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179365.jpg\", descr=\"Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.\")",
+                "BookRanker(isbn=\"9781492666868\", rank=9, author=\"Marie Benedict\", name=\"THE ONLY WOMAN IN THE ROOM\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781492666868.jpg\", descr=\"Hedy Lamarr flees to Hollywood where she becomes a screen star and develops technology that might combat the Nazis.\")"
+            ]
+        },
+        {
+            "date": "2019-02-10",
+            "next_date": "2019-02-03",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780062381781\", rank=2, author=\"James Rollins\", name=\"CRUCIBLE\", pages=448, img_url=\"https://s1.nyt.com/du/books/images/9780062381781.jpg\", descr=\"Monk Kokkalis and Commander Gray Pierce use arcane clues in hopes of preventing a potential apocalypse.\")",
+                "BookRanker(isbn=\"9781250133731\", rank=3, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=352, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9780316418249\", rank=4, author=\"James Patterson and Candice Fox\", name=\"LIAR LIAR\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780316418256.jpg\", descr=\"Detective Harriet Blue has become a dangerous fugitive from the law as she pursues the murderer Regan Banks.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=5, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9780399179358\", rank=6, author=\"Danielle Steel\", name=\"TURNING POINT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179365.jpg\", descr=\"Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.\")",
+                "BookRanker(isbn=\"9780345540027\", rank=7, author=\"Alan Bradley\", name=\"THE GOLDEN TRESSES OF THE DEAD\", pages=352, img_url=\"https://s1.nyt.com/du/books/images/9780345540041.jpg\", descr=\"Flavia de Luce, a 12-year-old detective, is on the case when a human finger ends up in her sister\u2019s wedding cake.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=8, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9781492666868\", rank=9, author=\"Marie Benedict\", name=\"THE ONLY WOMAN IN THE ROOM\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781492666868.jpg\", descr=\"Hedy Lamarr flees to Hollywood where she becomes a screen star and develops technology that might combat the Nazis.\")"
+            ]
+        },
+        {
+            "date": "2019-02-03",
+            "next_date": "2019-01-27",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780316418249\", rank=2, author=\"James Patterson and Candice Fox\", name=\"LIAR LIAR\", pages=400, img_url=\"https://s1.nyt.com/du/books/images/9780316418256.jpg\", descr=\"Detective Harriet Blue has become a dangerous fugitive from the law as she pursues the murderer Regan Banks.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=3, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9780399179358\", rank=4, author=\"Danielle Steel\", name=\"TURNING POINT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179365.jpg\", descr=\"Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.\")",
+                "BookRanker(isbn=\"9781250133731\", rank=5, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=352, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=6, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9781492666868\", rank=7, author=\"Marie Benedict\", name=\"THE ONLY WOMAN IN THE ROOM\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781492666868.jpg\", descr=\"Hedy Lamarr flees to Hollywood where she becomes a screen star and develops technology that might combat the Nazis.\")",
+                "BookRanker(isbn=\"9781501176876\", rank=8, author=\"James Lee Burke\", name=\"THE NEW IBERIA BLUES\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9781501176883.jpg\", descr=\"Detective Dave Robicheaux and his new partner Bailey Ribbons investigate the death of a young woman by crucifixion.\")",
+                "BookRanker(isbn=\"9781538728529\", rank=9, author=\"Nicholas Sparks\", name=\"EVERY BREATH\", pages=320, img_url=\"https://s1.nyt.com/du/books/images/9781538728529.jpg\", descr=\"Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.\")"
+            ]
+        },
+        {
+            "date": "2019-01-27",
+            "next_date": "2019-01-20",
+            "books": [
+                "BookRanker(isbn=\"9781250133731\", rank=1, author=\"Greer Hendricks and Sarah Pekkanen\", name=\"AN ANONYMOUS GIRL\", pages=352, img_url=\"https://s1.nyt.com/du/books/images/9781250133731.jpg\", descr=\"Jessica Farris\u2019s life unravels when she signs up for Dr. Shields\u2019s psychology study.\")",
+                "BookRanker(isbn=\"9780735219090\", rank=2, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780399179358\", rank=3, author=\"Danielle Steel\", name=\"TURNING POINT\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399179365.jpg\", descr=\"Four American trauma doctors face difficult choices when they join a mass-casualty training program in Paris.\")",
+                "BookRanker(isbn=\"9781501176876\", rank=4, author=\"James Lee Burke\", name=\"THE NEW IBERIA BLUES\", pages=464, img_url=\"https://s1.nyt.com/du/books/images/9781501176883.jpg\", descr=\"Detective Dave Robicheaux and his new partner Bailey Ribbons investigate the death of a young woman by crucifixion.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=5, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=6, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9781538747209\", rank=7, author=\"Douglas Preston and Lincoln Child\", name=\"VERSES FOR THE DEAD\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781538747209.jpg\", descr=\"Agents Pendergast and Coldmoon track a killer who removes hearts and leaves handwritten letters.\")",
+                "BookRanker(isbn=\"9781538728529\", rank=8, author=\"Nicholas Sparks\", name=\"EVERY BREATH\", pages=320, img_url=\"https://s1.nyt.com/du/books/images/9781538728529.jpg\", descr=\"Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.\")",
+                "BookRanker(isbn=\"9780316556347\", rank=9, author=\"Madeline Miller\", name=\"CIRCE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316556347.jpg\", descr=\"Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.\")"
+            ]
+        },
+        {
+            "date": "2019-01-20",
+            "next_date": "2019-01-13",
+            "books": [
+                "BookRanker(isbn=\"9780735219090\", rank=1, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9781538747209\", rank=2, author=\"Douglas Preston and Lincoln Child\", name=\"VERSES FOR THE DEAD\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9781538747209.jpg\", descr=\"Agents Pendergast and Coldmoon track a killer who removes hearts and leaves handwritten letters.\")",
+                "BookRanker(isbn=\"9780385544153\", rank=3, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=4, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9781538728529\", rank=5, author=\"Nicholas Sparks\", name=\"EVERY BREATH\", pages=320, img_url=\"https://s1.nyt.com/du/books/images/9781538728529.jpg\", descr=\"Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.\")",
+                "BookRanker(isbn=\"9780316556347\", rank=6, author=\"Madeline Miller\", name=\"CIRCE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780316556347.jpg\", descr=\"Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.\")",
+                "BookRanker(isbn=\"9781250069825\", rank=7, author=\"Liane Moriarty\", name=\"NINE PERFECT STRANGERS\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9781250069849.jpg\", descr=\"A romance writer becomes fascinated by the owner and director of a health resort.\")",
+                "BookRanker(isbn=\"9780316273947\", rank=8, author=\"James Patterson\", name=\"TARGET: ALEX CROSS\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780316417501.jpg\", descr=\"Alex Cross returns for the 26th book in the series bearing his name.\")",
+                "BookRanker(isbn=\"9780735219250\", rank=9, author=\"Stuart Woods\", name=\"A DELICATE TOUCH\", pages=320, img_url=\"https://s1.nyt.com/du/books/images/9780735219274.jpg\", descr=\"The 48th book in the Stone Barrington series.\")"
+            ]
+        },
+        {
+            "date": "2019-01-13",
+            "next_date": "2019-01-06",
+            "books": [
+                "BookRanker(isbn=\"9780385544153\", rank=1, author=\"John Grisham\", name=\"THE RECKONING\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780385544160.jpg\", descr=\"A decorated World War II veteran shoots and kills a pastor.\")",
+                "BookRanker(isbn=\"9781524796280\", rank=2, author=\"George RR Martin\", name=\"FIRE AND BLOOD\", pages=736, img_url=\"https://s1.nyt.com/du/books/images/9781524796280.jpg\", descr=\"The first volume of the two-part history of the Targaryens in Westeros.\")",
+                "BookRanker(isbn=\"9781538728529\", rank=3, author=\"Nicholas Sparks\", name=\"EVERY BREATH\", pages=320, img_url=\"https://s1.nyt.com/du/books/images/9781538728529.jpg\", descr=\"Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.\")",
+                "BookRanker(isbn=\"9780316273947\", rank=4, author=\"James Patterson\", name=\"TARGET: ALEX CROSS\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9780316417501.jpg\", descr=\"Alex Cross returns for the 26th book in the series bearing his name.\")",
+                "BookRanker(isbn=\"9780735219090\", rank=5, author=\"Delia Owens\", name=\"WHERE THE CRAWDADS SING\", pages=384, img_url=\"https://s1.nyt.com/du/books/images/9780735219090.jpg\", descr=\"A woman who survived alone in the marsh becomes a murder suspect.\")",
+                "BookRanker(isbn=\"9780062294449\", rank=6, author=\"Mitch Albom\", name=\"THE NEXT PERSON YOU MEET IN HEAVEN\", pages=240, img_url=\"https://s1.nyt.com/du/books/images/9780062294449.jpg\", descr=\"The sequel to 'The Five People You Meet in Heaven', follows Annie on her heavenly journey.\")",
+                "BookRanker(isbn=\"9781982102319\", rank=7, author=\"Stephen King\", name=\"ELEVATION\", pages=160, img_url=\"https://s1.nyt.com/du/books/images/9781982102319.jpg\", descr=\"A man who is losing weight without getting thinner forms an unlikely alliance with his neighbors who are dealing with prejudices.\")",
+                "BookRanker(isbn=\"9780399593512\", rank=8, author=\"Lee Child\", name=\"PAST TENSE\", pages=None, img_url=\"https://s1.nyt.com/du/books/images/9780399593512.jpg\", descr=\"Jack Reacher explores the New England town where his father was born.\")",
+                "BookRanker(isbn=\"9781250069825\", rank=9, author=\"Liane Moriarty\", name=\"NINE PERFECT STRANGERS\", pages=432, img_url=\"https://s1.nyt.com/du/books/images/9781250069849.jpg\", descr=\"A romance writer becomes fascinated by the owner and director of a health resort.\")"
+            ]
+        }
+    ]
+}

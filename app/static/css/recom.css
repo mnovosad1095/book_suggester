@@ -1,0 +1,61 @@
+body, html{
+    background: url('images/books.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+
+fieldset{
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-top: 10%;
+        align-self: center;
+        alignment: center;
+        height: 25%;
+        background: rgba(230,227,233,0.89);
+        border-radius: 12px;
+        border: rgba(230,227,233,0.89);
+}
+legend{
+    padding: 15px;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    background: #494f59;
+    border-radius: 8px;
+
+}
+
+input[name=Minimum_pages]{
+    text-align: center;
+    margin-top: 25px;
+    /*margin-right: 5%;*/
+    border-radius: 12px;
+    border: rgba(230,227,233,0.89);
+    height: 25px;
+
+}
+
+input[name=Max_pages]{
+    text-align: center;
+    height: 25px;
+    /*margin-left: 5%;*/
+    margin-top: 15px;
+    border-radius: 12px;
+    border: rgba(230,227,233,0.89);
+}
+
+input[type=submit]{
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 40px;
+    width: 50%;
+    border-radius: 12px;
+    background: #494f59;
+    border: rgba(230,227,233,0.89);
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
