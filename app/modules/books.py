@@ -1,4 +1,4 @@
-from hidden.hidden import google_api
+from .hidden.hidden import google_api
 from googleapiclient.discovery import build
 
 
