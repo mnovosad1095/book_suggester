@@ -1,9 +1,9 @@
-from hidden.hidden import nyt_api
+from .hidden.hidden import nyt_api
 import json
 import datetime
 from requests import get
-from books.books import BookRanker
-from charts.chart import Chart
+from books import BookRanker
+from chart import Chart
 
 
 class ChartMultiSet:
