@@ -1,4 +1,4 @@
-from charts.chartADT import ChartMultiSet
+from chartADT import ChartMultiSet
 import os
 import sys
 import datetime
