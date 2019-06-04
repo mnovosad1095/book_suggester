@@ -1,7 +1,7 @@
 from flask import Flask,redirect, render_template, request, url_for, make_response
-from hidden import constants
-from users.user import User
-from recommender.recommendation import BookRecommender
+from .hidden import constants
+from user import User
+from recommendation import BookRecommender
 
 
 app = Flask(__name__)
