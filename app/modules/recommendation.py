@@ -1,4 +1,4 @@
-from rank.ranker import RankCrawler
+from ranker import RankCrawler
 
 
 class BookRecommender:

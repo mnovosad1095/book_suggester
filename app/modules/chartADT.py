@@ -1,4 +1,4 @@
-from .hidden.hidden import nyt_api
+from hidden.hidden import nyt_api
 import json
 import datetime
 from requests import get
