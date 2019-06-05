@@ -1,0 +1,7 @@
+ranker module
+=============
+
+.. automodule:: ranker
+    :members:
+    :undoc-members:
+    :show-inheritance:

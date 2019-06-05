@@ -1,0 +1,7 @@
+books module
+============
+
+.. automodule:: books
+    :members:
+    :undoc-members:
+    :show-inheritance:

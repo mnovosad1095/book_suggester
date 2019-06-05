@@ -1,0 +1,7 @@
+chartADT module
+===============
+
+.. automodule:: chartADT
+    :members:
+    :undoc-members:
+    :show-inheritance:
